@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/massuello/Library/CloudStorage/OneDrive-Pessoal/Documentos/TI/livro_logica_programacao_python",
+      "program": "/Users/massuello/Library/CloudStorage/OneDrive-Pessoal/Documentos/TI/livro_logica_programacao_python/build/Debug/outDebug"
+    }
+  ]
+}
